@@ -1,3 +1,3 @@
-var x = "bro";
+var y = "bro, what's good";
 
-console.log(x);
+console.log(y);
